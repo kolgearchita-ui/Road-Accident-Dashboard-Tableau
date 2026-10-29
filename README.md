@@ -7,27 +7,27 @@ The dashboard also provides Year-over-Year (YoY) comparison between the current 
 
 
 🎯 Project Objectives
-Analyze overall road accidents and casualties.
-Compare current-year and previous-year accident data.
-Analyze serious casualties by vehicle type.
-Understand the impact of weather conditions on accidents.
-Analyze casualties based on road surface conditions.
-Identify road types with higher serious casualties.
-Visualize accident locations using geographical maps.
-Provide interactive filtering based on accident severity.
+1.Analyze overall road accidents and casualties.
+2.Compare current-year and previous-year accident data.
+3.Analyze serious casualties by vehicle type.
+4.Understand the impact of weather conditions on accidents.
+5.Analyze casualties based on road surface conditions.
+6.Identify road types with higher serious casualties.
+7.Visualize accident locations using geographical maps.
+8.Provide interactive filtering based on accident severity.
 📈 Dashboard Features
-Total Accidents
-Total Casualties
-Fatal Casualties
-Serious Casualties
-Slight Casualties
-Serious Casualties by Vehicle Type
-Serious Casualties by Weather Condition
-Serious Casualties by Road Surface
-Serious Casualties by Road Type
-Geographical Accident Location Analysis
-Current Year vs Previous Year comparison
-Accident Severity filter
+1.Total Accidents
+2.Total Casualties
+3.Fatal Casualties
+4.Serious Casualties
+5.Slight Casualties
+6.Serious Casualties by Vehicle Type
+- Serious Casualties by Weather Condition
+- Serious Casualties by Road Surface
+- Serious Casualties by Road Type
+- Geographical Accident Location Analysis
+- Current Year vs Previous Year comparison
+- Accident Severity filter
 🛠️ Tools & Technologies
 Tableau
 Data Visualization
