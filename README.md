@@ -1,8 +1,10 @@
 Road Accident Analysis Dashboard – Tableau
+
 📊 Project Overview
 This project is an interactive Road Accident Analysis Dashboard developed using Tableau. The dashboard analyzes road accident and casualty data to identify important trends and patterns related to accident severity, vehicle types, weather conditions, road surfaces, road types, and locations.
 
 The dashboard also provides Year-over-Year (YoY) comparison between the current year and previous year.
+
 
 🎯 Project Objectives
 Analyze overall road accidents and casualties.
