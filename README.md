@@ -54,10 +54,12 @@ Compared current-year and previous-year accident data using Year-over-Year (YoY)
 - Interactive Filtering
 - Geographical Visualization
 - Data Storytelling
+
 📁 Project Files
 
 - Road_Accident_Analysis_Dashboard.twbx – Tableau packaged workbook.
 - road-accident-dashboard.png – Dashboard preview image.
+
 👨‍💻 Project Purpose
 
 Demonstrate practical Tableau data analysis and visualization skills.
