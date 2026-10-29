@@ -1,54 +1,66 @@
 Road Accident Analysis Dashboard – Tableau
 
 📊 Project Overview
-This project is an interactive Road Accident Analysis Dashboard developed using Tableau. The dashboard analyzes road accident and casualty data to identify important trends and patterns related to accident severity, vehicle types, weather conditions, road surfaces, road types, and locations.
 
-The dashboard also provides Year-over-Year (YoY) comparison between the current year and previous year.
+Developed an interactive Road Accident Analysis Dashboard using Tableau.
+Analyzed road accident and casualty data to identify key trends and patterns.
+Visualized accident severity, vehicle types, weather conditions, road surfaces, road types, and locations.
 
+Compared current-year and previous-year accident data using Year-over-Year (YoY) analysis.
 
 🎯 Project Objectives
-1.Analyze overall road accidents and casualties.
-2.Compare current-year and previous-year accident data.
-3.Analyze serious casualties by vehicle type.
-4.Understand the impact of weather conditions on accidents.
-5.Analyze casualties based on road surface conditions.
-6.Identify road types with higher serious casualties.
-7.Visualize accident locations using geographical maps.
-8.Provide interactive filtering based on accident severity.
+
+- Analyze overall road accidents and casualties.
+- Compare current-year and previous-year accident statistics.
+- Analyze serious casualties by vehicle type.
+- Understand the impact of weather conditions on accidents.
+- Analyze casualties based on road surface conditions.
+- Identify road types with higher serious casualties.
+- Visualize accident locations using geographical maps.
+- Provide interactive filtering based on accident severity.
+  
 📈 Dashboard Features
-1.Total Accidents
-2.Total Casualties
-3.Fatal Casualties
-4.Serious Casualties
-5.Slight Casualties
-6.Serious Casualties by Vehicle Type
+
+- Total Accidents
+- Total Casualties
+- Fatal Casualties
+- Serious Casualties
+- Slight Casualties
+- Serious Casualties by Vehicle Type
 - Serious Casualties by Weather Condition
 - Serious Casualties by Road Surface
 - Serious Casualties by Road Type
 - Geographical Accident Location Analysis
-- Current Year vs Previous Year comparison
-- Accident Severity filter
-🛠️ Tools & Technologies
-Tableau
-Data Visualization
-Data Analysis
-Interactive Dashboards
-Charts and KPIs
-Geographical Mapping
-📷 Dashboard Preview
-Road Accident Dashboard
+- Current Year vs Previous Year Comparison
+- Interactive Accident Severity Filter
 
+🛠️ Tools & Technologies
+
+- Tableau
+- Data Visualization
+- Data Analysis
+- Interactive Dashboards
+- Charts and KPIs
+- Geographical Mapping
+- Year-over-Year Analysis
+  
 💡 Key Skills Demonstrated
-Data Visualization
-Dashboard Development
-KPI Creation
-Trend Analysis
-Year-over-Year Analysis
-Interactive Filtering
-Geographical Visualization
-Data Storytelling
+
+- Data Visualization
+- Dashboard Development
+- KPI Creation
+- Trend Analysis
+- Year-over-Year Analysis
+- Interactive Filtering
+- Geographical Visualization
+- Data Storytelling
 📁 Project Files
-Road_Accident_Analysis_Dashboard.twbx – Tableau packaged workbook
-road-accident-dashboard.png – Dashboard preview
+
+- Road_Accident_Analysis_Dashboard.twbx – Tableau packaged workbook.
+- road-accident-dashboard.png – Dashboard preview image.
 👨‍💻 Project Purpose
-This project was created to demonstrate my ability to use Tableau for data analysis and visualization and to transform accident data into an interactive dashboard that communicates meaningful insights clearly.
+
+Demonstrate practical Tableau data analysis and visualization skills.
+Transform accident data into meaningful visual insights.
+Present accident trends through interactive charts, KPIs, and maps.
+Support data-driven understanding of road safety patterns.
