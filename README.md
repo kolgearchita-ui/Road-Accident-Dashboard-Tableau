@@ -1,6 +1,6 @@
-Road Accident Analysis Dashboard – Tableau
+## Road Accident Analysis Dashboard – Tableau
 
-📊 Project Overview
+## 📊 Project Overview
 
 Developed an interactive Road Accident Analysis Dashboard using Tableau.
 Analyzed road accident and casualty data to identify key trends and patterns.
@@ -8,7 +8,7 @@ Visualized accident severity, vehicle types, weather conditions, road surfaces, 
 
 Compared current-year and previous-year accident data using Year-over-Year (YoY) analysis.
 
-🎯 Project Objectives
+## 🎯 Project Objectives
 
 - Analyze overall road accidents and casualties.
 - Compare current-year and previous-year accident statistics.
@@ -19,7 +19,7 @@ Compared current-year and previous-year accident data using Year-over-Year (YoY)
 - Visualize accident locations using geographical maps.
 - Provide interactive filtering based on accident severity.
   
-📈 Dashboard Features
+## 📈 Dashboard Features
 
 - Total Accidents
 - Total Casualties
@@ -34,7 +34,7 @@ Compared current-year and previous-year accident data using Year-over-Year (YoY)
 - Current Year vs Previous Year Comparison
 - Interactive Accident Severity Filter
 
-🛠️ Tools & Technologies
+ ## 🛠️ Tools & Technologies
 
 - Tableau
 - Data Visualization
@@ -43,8 +43,12 @@ Compared current-year and previous-year accident data using Year-over-Year (YoY)
 - Charts and KPIs
 - Geographical Mapping
 - Year-over-Year Analysis
+
+## 📸 Dashboard Preview
+
+![Road Accident Dashboard](https://raw.githubusercontent.com/kolgearchita-ui/Road-Accident-Tableau-Dashboard/main/road-accident-dashboard.png)
   
-💡 Key Skills Demonstrated
+## 💡 Key Skills Demonstrated
 
 - Data Visualization
 - Dashboard Development
@@ -55,12 +59,12 @@ Compared current-year and previous-year accident data using Year-over-Year (YoY)
 - Geographical Visualization
 - Data Storytelling
 
-📁 Project Files
+## 📁 Project Files
 
 - Road_Accident_Analysis_Dashboard.twbx – Tableau packaged workbook.
 - road-accident-dashboard.png – Dashboard preview image.
 
-👨‍💻 Project Purpose
+## 👨‍💻 Project Purpose
 
 Demonstrate practical Tableau data analysis and visualization skills.
 Transform accident data into meaningful visual insights.
