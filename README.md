@@ -70,3 +70,10 @@ Demonstrate practical Tableau data analysis and visualization skills.
 Transform accident data into meaningful visual insights.
 Present accident trends through interactive charts, KPIs, and maps.
 Support data-driven understanding of road safety patterns.
+
+## 👨‍💻 Author
+Archita Kolge
+
+B.Sc. IT Graduate | Data Analyst
+
+Skills: Power BI | SQL | Tableau | Python | Advanced Excel | Data Analysis
