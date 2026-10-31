@@ -66,6 +66,8 @@ The dashboard also provides **Year-over-Year (YoY) comparison** between the curr
 This project was created to demonstrate my ability to use **Tableau for data analysis and visualization** and to transform accident data into an interactive dashboard that communicates meaningful insights clearly.
 
 
+## 👨‍💻 Author
+
 **Archita Kolge**
 
 B.Sc. IT Graduate | Data Analyst
